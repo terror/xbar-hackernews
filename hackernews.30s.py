@@ -82,7 +82,7 @@ def main():
         client = Client(type)
         articles = client.fetch_data()
 
-        print(live_types[type][0] + '\n{}'.format(separator(4)))
+        print(live_types[type][0])
         for article in articles:
             print('{}{}'.format(separator(2), article))
 
