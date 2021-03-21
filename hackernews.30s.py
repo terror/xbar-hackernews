@@ -20,6 +20,7 @@ live_types = {
     "newstories":  ("New Stories", 'https://news.ycombinator.com/newest'),
     "beststories": ("Best Stories", 'https://news.ycombinator.com/best'),
     "askstories":  ("Ask Stories", 'https://news.ycombinator.com/ask'),
+    "showstories": ("Show Stories", 'https://news.ycombinator.com/show'),
     "jobstories":  ("Job Stories", 'https://news.ycombinator.com/jobs')
 }
 
