@@ -1,7 +1,7 @@
-## bitbar hackernews
+## xbar hackernews
 
-A [Hacker News](https://news.ycombinator.com/) plugin for [BitBar](https://github.com/matryer/xbar)
+A [Hacker News](https://news.ycombinator.com/) plugin for [xbar](https://github.com/matryer/xbar)
 
-## demo
+## Demo
 
 ![](./demo.png)
